@@ -215,4 +215,4 @@ print(predictions)
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. (https://github.com/codewithsomi/Hate_Speech_Detection_Twitter_Dataset/blob/6499da8e52e751f0804b45a553ee1fe1e5462cc6/LICENCE)
